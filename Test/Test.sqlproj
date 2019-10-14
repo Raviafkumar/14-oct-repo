@@ -59,4 +59,7 @@
     <Folder Include="Properties" />
     <Folder Include="Tables" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Tables\Table1.sql" />
+  </ItemGroup>
 </Project>
