@@ -62,5 +62,6 @@
   <ItemGroup>
     <Build Include="Tables\Table1.sql" />
     <Build Include="Tables\Table2.sql" />
+    <Build Include="Tables\Table3.sql" />
   </ItemGroup>
 </Project>
